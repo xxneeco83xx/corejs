@@ -1,0 +1,31 @@
+{
+  "name": "corejs",
+  "version": "1.0.0",
+  "description": "CoreJs Framework MVC",
+  "main": "app.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "start": "",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxneeco83xx/corejs.git"
+  },
+  "keywords": [
+    "corejs",
+    "javascript",
+    "framework",
+    "mvc"
+  ],
+  "author": "Nicolás Buzzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxneeco83xx/corejs/issues"
+  },
+  "homepage": "https://github.com/xxneeco83xx/corejs#readme",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
